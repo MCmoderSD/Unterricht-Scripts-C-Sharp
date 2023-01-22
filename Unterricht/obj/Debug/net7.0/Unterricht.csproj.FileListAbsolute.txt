@@ -1,0 +1,15 @@
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\bin\Debug\net7.0\Unterricht.exe
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\bin\Debug\net7.0\Unterricht.deps.json
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\bin\Debug\net7.0\Unterricht.runtimeconfig.json
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\bin\Debug\net7.0\Unterricht.dll
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\bin\Debug\net7.0\Unterricht.pdb
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.csproj.AssemblyReference.cache
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.AssemblyInfoInputs.cache
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.AssemblyInfo.cs
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.csproj.CoreCompileInputs.cache
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.dll
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\refint\Unterricht.dll
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.pdb
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\Unterricht.genruntimeconfig.cache
+C:\Users\MCmoderSD\RiderProjects\Unterricht\Unterricht\obj\Debug\net7.0\ref\Unterricht.dll
